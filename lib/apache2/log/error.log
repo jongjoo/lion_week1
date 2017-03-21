@@ -1,0 +1,30 @@
+[Tue Mar 21 09:28:08.793395 2017] [mpm_prefork:notice] [pid 3619] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Mar 21 09:28:08.793474 2017] [core:notice] [pid 3619] AH00094: Command line: 'apache2'
+[Tue Mar 21 09:28:37.170045 2017] [core:info] [pid 3633] [client 10.240.0.214:59792] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://lion-week1-jongjoo.c9users.io/hello-world.html
+[Tue Mar 21 09:35:04.725376 2017] [mpm_prefork:notice] [pid 3619] AH00169: caught SIGTERM, shutting down
+[Tue Mar 21 09:35:05.929614 2017] [mpm_prefork:notice] [pid 4402] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Mar 21 09:35:05.929681 2017] [core:notice] [pid 4402] AH00094: Command line: 'apache2'
+[Tue Mar 21 09:35:12.771371 2017] [mpm_prefork:notice] [pid 4402] AH00169: caught SIGTERM, shutting down
+[Tue Mar 21 09:35:14.942565 2017] [mpm_prefork:notice] [pid 4934] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Mar 21 09:35:14.942643 2017] [core:notice] [pid 4934] AH00094: Command line: 'apache2'
+[Tue Mar 21 09:36:07.695773 2017] [mpm_prefork:notice] [pid 4934] AH00169: caught SIGTERM, shutting down
+[Tue Mar 21 09:36:09.802753 2017] [mpm_prefork:notice] [pid 5465] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Mar 21 09:36:09.802832 2017] [core:notice] [pid 5465] AH00094: Command line: 'apache2'
+[Tue Mar 21 09:37:20.676836 2017] [mpm_prefork:notice] [pid 5465] AH00169: caught SIGTERM, shutting down
+[Tue Mar 21 09:37:22.583596 2017] [mpm_prefork:notice] [pid 5998] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Mar 21 09:37:22.583659 2017] [core:notice] [pid 5998] AH00094: Command line: 'apache2'
+[Tue Mar 21 09:38:51.156035 2017] [mpm_prefork:notice] [pid 5998] AH00169: caught SIGTERM, shutting down
+[Tue Mar 21 09:38:53.156078 2017] [mpm_prefork:notice] [pid 6532] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Mar 21 09:38:53.156159 2017] [core:notice] [pid 6532] AH00094: Command line: 'apache2'
+[Tue Mar 21 09:40:48.715907 2017] [mpm_prefork:notice] [pid 6532] AH00169: caught SIGTERM, shutting down
+[Tue Mar 21 09:40:50.759257 2017] [mpm_prefork:notice] [pid 7066] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Mar 21 09:40:50.759323 2017] [core:notice] [pid 7066] AH00094: Command line: 'apache2'
+[Tue Mar 21 09:40:56.416354 2017] [core:info] [pid 7074] [client 10.240.0.33:38780] AH00128: File does not exist: /home/ubuntu/workspace/js/bootstrap.min.js, referer: https://lion-week1-jongjoo.c9users.io/index.html
+[Tue Mar 21 09:45:25.310474 2017] [mpm_prefork:notice] [pid 7066] AH00169: caught SIGTERM, shutting down
+[Tue Mar 21 09:45:26.092630 2017] [mpm_prefork:notice] [pid 7608] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Mar 21 09:45:26.092716 2017] [core:notice] [pid 7608] AH00094: Command line: 'apache2'
+[Tue Mar 21 09:47:54.847420 2017] [core:info] [pid 7618] [client 10.240.1.14:55340] AH00128: File does not exist: /home/ubuntu/workspace/index2.html
+[Tue Mar 21 09:48:02.923004 2017] [mpm_prefork:notice] [pid 7608] AH00169: caught SIGTERM, shutting down
+[Tue Mar 21 09:48:04.104275 2017] [mpm_prefork:notice] [pid 8138] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.21 configured -- resuming normal operations
+[Tue Mar 21 09:48:04.104354 2017] [core:notice] [pid 8138] AH00094: Command line: 'apache2'
+[Tue Mar 21 09:49:00.314550 2017] [core:info] [pid 8145] [client 10.240.1.14:56208] AH00128: File does not exist: /home/ubuntu/workspace/css/bootstrap.min.css.map
